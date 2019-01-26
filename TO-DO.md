@@ -8,5 +8,5 @@
 - [ ] Gyro Logic
 - [ ] I2C Infrastructure
 - [ ] GPIO Infrastructure
-- [ ] Parallel Tasking Infrastructure
+- [ ] Super-Loop-Concept / Parallel Tasking Infrastructure
 - [ ] ...?
