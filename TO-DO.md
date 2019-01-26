@@ -1,0 +1,11 @@
+# Programming Tasks
+- GitHub
+- Sensorlibarys
+- Tracklogic
+- USS Logik
+- Motorsteuerung
+- Linetracker
+- Gyro logic
+- I2c Infrastructure
+- GPIO Infrastructure
+- Parallel Infrastructure
