@@ -2,10 +2,11 @@
 - [ ] GitHub
 - [ ] Sensorlibarys
 - [ ] Tracklogic
-- [ ] USS Logik
-- [ ] Motorsteuerung
-- [ ] Linetracker
-- [ ] Gyro logic
-- [ ] I2c Infrastructure
+- [ ] USS Logic
+- [ ] Enginecontrol
+- [ ] Linetracker Logic
+- [ ] Gyro Logic
+- [ ] I2C Infrastructure
 - [ ] GPIO Infrastructure
-- [ ] Parallel Infrastructure
+- [ ] Parallel Tasking Infrastructure
+- [ ] 
